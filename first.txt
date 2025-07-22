@@ -1,4 +1,6 @@
 This text file added on behalf of assignment 1
 
 **************  feature addition ********** 
-new feature add from feature branch
+new feature add from feature branch Hotfix applied to the code from hotfix branch
+
+**************** done with hotfix updation************
